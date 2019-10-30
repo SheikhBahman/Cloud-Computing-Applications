@@ -22,3 +22,6 @@ In the past, it was not easy for users of genetic data to analyze and derive ins
 
 
 # Please see the project report for more information
+
+* Some figures from the project
+![GitHub Logo](/IMG/1.png)
