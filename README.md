@@ -1,6 +1,8 @@
 # Cloud-Computing-Applications
 Course Project for CS 498 Cloud Computing Applications.
 
+- Please see the report PDF file for more detail.
+
 # Authors
 * Suma Venugopal
 * Emil Verghese
